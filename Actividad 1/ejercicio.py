@@ -6,6 +6,7 @@ def total(lst):
     for x in lst:
         accum=accum+x
     return accum
+    
 
 lst=[1,2,3,4]
 res = total(lst)
